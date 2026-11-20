@@ -1,23 +1,17 @@
 # Soundtrack
 
-Landing page musical desarrollada para la materia Estandares para el desarrollo web
+## Instalacion
 
-## Tecnologias utilizadas
--HTML5
--CSS3
--JavaScript
--Bootstrap
+Instalar las dependencias:
 
-# Como ejecutar el proyecto
+npm install
 
--Clonar el repositorio
--Abrir la carpeta del proyecto
--Abrir el archivo index.html en el navegador
+## Ejecutar el proyecto
 
-# Sitio publicado
+npm start
 
-https://luzdelitto.github.io/landing-linux/
+## Acceder al sitio
 
-# Descripcion
+Abrir el navegador y buscar:
 
-Soundtrack es una landing page centrada en mis gustos musicales, incluye informacion sobre generos musicales favoritos, artistas destacados, albumes recomendados y enlaces a spotify para compartir recomendaciones musicales.
+http://localhost:3000
