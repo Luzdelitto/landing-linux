@@ -1,0 +1,27 @@
+{
+  "name": "landing-linux",
+  "version": "1.0.0",
+  "description": "Landing page musical desarrollada para la materia Estandares para el desarrollo web",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luzdelitto/landing-linux.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luzdelitto/landing-linux/issues"
+  },
+  "homepage": "https://github.com/Luzdelitto/landing-linux#readme",
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "bootstrap": "^5.3.9",
+    "bootstrap-icons": "^1.13.2",
+    "dayjs": "^1.11.23",
+    "sweetalert2": "^11.26.25"
+  }
+}
